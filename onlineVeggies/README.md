@@ -1,4 +1,4 @@
-# E-commerceWebsite
+# E-commerceWebsite: Online Veggies
 This project deals with developing a Virtual website ‘E-commerce Website’ for selling and buying of vegetables online. It provides the user with a list of the various shops(here only 4 shops are included. More shops can be included by altering the code.) and different vegetables/fruits available for purchase in those shops. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the vegetables, it is sent for the order confirmation process. The system is implemented using Python's web framework Django.
 
 1. Clone this repository into a folder on your computer
